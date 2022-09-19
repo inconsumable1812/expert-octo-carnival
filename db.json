@@ -19,7 +19,7 @@
   "contacts": [
     {
       "id": 1,
-      "forUserID": "1",
+      "forUserID": 1,
       "items": [
         { "name": "Dick Jonson", "email": "uf11@ml.com", "phone": "+78005553535", "id": 1 },
         { "name": "John Purple", "email": "uf12@ml.com", "phone": "+78005553536", "id": 2 },
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "forUserID": "1",
+      "forUserID": 2,
       "items": [
         { "name": "Samantha Purple", "email": "uf21@ml.com", "phone": "+78005553540","id": 1 },
         { "name": "Helena Green", "email": "uf22@ml.com", "phone": "+78005553541", "id": 2 },
@@ -39,7 +39,7 @@
     },
     {
       "id": 3,
-      "forUserID": "3",
+      "forUserID": 3,
       "items": [
         { "name": "Super Man", "email": "uf31@ml.com", "phone": "+78005553543", "id": 1 },
         { "name": "Super Woman", "email": "uf32@ml.com", "phone": "+78005553544", "id": 2 },
